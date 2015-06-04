@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">semana02</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu2">Pantalla 2</string>
+    <string name="title_activity_pantalla2">Pantalla02</string>
+    <string name="title_activity_pantalla3">Pantalla03</string>
+    <string name="title_activity_pantalla4">Pantalla04</string>
+    <string name="title_activity_pantalla5">Pantalla05</string>
+    
+   
+    <string name="etiqueta_talla">Talla</string>
+    
+    <string name="etiqueta_peso">Peso</string>
+    
+    <string name="boton_procesar">Procesar</string>
+   
+    
+
+</resources>

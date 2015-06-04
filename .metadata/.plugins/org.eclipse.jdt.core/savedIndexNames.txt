@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+E:\semana 02\.metadata\.plugins\org.eclipse.jdt.core
+477845456.index
+2770448974.index
